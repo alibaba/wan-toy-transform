@@ -1,0 +1,5 @@
+diffusers==0.33.1
+transformers==4.51.3
+accelerate==1.6.0
+peft==0.15.2
+ftfy==6.3.1
